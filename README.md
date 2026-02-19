@@ -108,10 +108,9 @@ API Root:
 
 http://127.0.0.1:8000
 
-
 Swagger Documentation:
 
-http://127.0.0.1:8000/docs
+http://127.0.0.1:8080/docs
 
 📬 API Usage
 Endpoint
@@ -156,4 +155,5 @@ Deployment to cloud platforms
 👩‍💻 Author
 Anjali Gupta
 B.Tech – Computer Science & Engineering (Data Science)
+
 
