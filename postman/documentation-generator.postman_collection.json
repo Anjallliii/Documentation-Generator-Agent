@@ -1,0 +1,22 @@
+{
+  "info": {
+    "name": "Documentation Generator Agent",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Generate Documentation",
+      "request": {
+        "method": "POST",
+        "url": "http://localhost:8000/generate/",
+        "body": {
+          "mode": "raw",
+          "raw": "{ \"prompt\": \"Generate documentation for a REST API\" }"
+        },
+        "header": [
+          { "key": "Content-Type", "value": "application/json" }
+        ]
+      }
+    }
+  ]
+}
