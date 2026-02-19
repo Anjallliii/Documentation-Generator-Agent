@@ -106,7 +106,7 @@ uvicorn app.main:app --reload
 
 API Root:
 
-http://127.0.0.1:8000
+http://127.0.0.1:8080
 
 Swagger Documentation:
 
@@ -155,5 +155,6 @@ Deployment to cloud platforms
 👩‍💻 Author
 Anjali Gupta
 B.Tech – Computer Science & Engineering (Data Science)
+
 
 
