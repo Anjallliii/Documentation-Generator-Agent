@@ -58,18 +58,16 @@ Documentation-Generator-Agent/
 │   └── __init__.py
 │
 ├── frontend/
-│   ├── index.html                  # Simple UI for user input
+│   ├── index.html                  # Simple user interface
 │   ├── style.css                   # Basic styling
-│   └── script.js                   # API call to backend
+│   └── script.js                   # Backend API calls
 │
 ├── postman/
 │   └── documentation-generator.postman_collection.json
 │
-├── .env.example                    # Environment variable template
-├── .gitignore                      # Ignored files
-├── README.md                       # Project documentation
-└── LICENSE                         # (Optional) License
-
+├── .env.example                    # Environment variables template
+├── .gitignore                      # Git ignored files
+└── README.md                       # Project documentation
 
 🔑 Environment Configuration
 
@@ -158,3 +156,4 @@ Deployment to cloud platforms
 👩‍💻 Author
 Anjali Gupta
 B.Tech – Computer Science & Engineering (Data Science)
+
